@@ -1,4 +1,4 @@
-# labbfinall
+# Simple E commarce interface
 
 A new Flutter project.
 
